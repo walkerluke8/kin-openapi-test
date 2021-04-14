@@ -1,0 +1,15 @@
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/patrickmn/go-cache v2.1.0+incompatible
+## explicit
+github.com/patrickmn/go-cache
+# github.com/sirupsen/logrus v1.8.1
+## explicit
+github.com/sirupsen/logrus
+# github.com/stretchr/testify v1.6.1
+## explicit
+# golang.org/x/sys v0.0.0-20200302150141-5c8b2ff67527
+## explicit
+golang.org/x/sys/unix
+golang.org/x/sys/windows
